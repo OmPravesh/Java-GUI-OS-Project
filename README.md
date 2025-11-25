@@ -58,7 +58,7 @@ Java-GUI-OS-Project/
 ## Prerequisites
 
 * Java JDK 11+ installed (JDK 17 or later recommended).
-* MySQL server (or remote MySQL-compatible service) OR a free hosted DB (you used `freesqldatabase.com` in the code example).
+* MySQL server (or remote MySQL-compatible service) OR a free hosted DB (we have used `freesqldatabase.com` in the code example).
 * MySQL Connector/J (JDBC) JAR.
 * (Optional) IntelliJ IDEA or other Java IDE.
 
